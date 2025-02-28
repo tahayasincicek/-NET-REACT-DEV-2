@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\bin\Debug\net8.0\Yaş Kategorisi.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\bin\Debug\net8.0\Yaş Kategorisi.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\bin\Debug\net8.0\Yaş Kategorisi.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\bin\Debug\net8.0\Yaş Kategorisi.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\bin\Debug\net8.0\Yaş Kategorisi.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\refint\Yaş Kategorisi.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\Yaş Kategorisi.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Yaş Kategorisi\Yaş Kategorisi\obj\Debug\net8.0\ref\Yaş Kategorisi.dll

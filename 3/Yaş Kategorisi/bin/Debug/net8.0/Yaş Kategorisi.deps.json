@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Yaş Kategorisi/1.0.0": {
+        "runtime": {
+          "Yaş Kategorisi.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Yaş Kategorisi/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

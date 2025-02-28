@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\bin\Debug\net8.0\Repeating Numbers.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\bin\Debug\net8.0\Repeating Numbers.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\bin\Debug\net8.0\Repeating Numbers.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\bin\Debug\net8.0\Repeating Numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\bin\Debug\net8.0\Repeating Numbers.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\refint\Repeating Numbers.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\Repeating Numbers.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Repeating Numbers\Repeating Numbers\obj\Debug\net8.0\ref\Repeating Numbers.dll
