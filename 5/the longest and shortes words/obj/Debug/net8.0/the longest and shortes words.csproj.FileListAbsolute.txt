@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\bin\Debug\net8.0\the longest and shortes words.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\bin\Debug\net8.0\the longest and shortes words.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\bin\Debug\net8.0\the longest and shortes words.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\bin\Debug\net8.0\the longest and shortes words.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\bin\Debug\net8.0\the longest and shortes words.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\refint\the longest and shortes words.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\the longest and shortes words.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\the longest and shortes words\the longest and shortes words\obj\Debug\net8.0\ref\the longest and shortes words.dll
