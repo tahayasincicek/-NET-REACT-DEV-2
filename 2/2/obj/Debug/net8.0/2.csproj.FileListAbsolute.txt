@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\bin\Debug\net8.0\2.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\bin\Debug\net8.0\2.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\bin\Debug\net8.0\2.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\bin\Debug\net8.0\2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\bin\Debug\net8.0\2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\refint\2.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\2.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\2\2\obj\Debug\net8.0\ref\2.dll

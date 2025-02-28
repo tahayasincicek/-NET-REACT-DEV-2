@@ -1,0 +1,14 @@
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.AssemblyInfoInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.AssemblyInfo.cs
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.csproj.CoreCompileInputs.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\bin\Debug\net8.0\Sayıların Toplamı.exe
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\bin\Debug\net8.0\Sayıların Toplamı.deps.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\bin\Debug\net8.0\Sayıların Toplamı.runtimeconfig.json
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\bin\Debug\net8.0\Sayıların Toplamı.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\bin\Debug\net8.0\Sayıların Toplamı.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\refint\Sayıların Toplamı.dll
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.pdb
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\Sayıların Toplamı.genruntimeconfig.cache
+C:\Users\TAHA\Desktop\AcunMedya Akademi\Ödevler\2\Sayıların Toplamı\Sayıların Toplamı\obj\Debug\net8.0\ref\Sayıların Toplamı.dll
